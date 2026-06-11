@@ -1,6 +1,6 @@
 # ORDINARY DIFFERENTIAL EQUATIONS
 
-## Mathematical Modelling labs
+## Mathematical Modelling Labs
 
 1. Solutions of first, second, and third order differential equations.
 2. Plotting of the family of solutions of differential equations of first, second and third order.
